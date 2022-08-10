@@ -1,7 +1,9 @@
 # EBL-2010
 Files from 2010 EBL model
 
-This page contains models of the extragalactic background light (EBL). This is the background light from direct stellar radiation and stellar radiation reprocessed by dust, and spans the far-infrared to the ultraviolet. The corresponding publication is
+This contains models of the extragalactic background light (EBL). See also:  https://web.archive.org/web/20171108014403/http://www.phy.ohiou.edu/~finke/EBL/index.html
+
+This is the background light from direct stellar radiation and stellar radiation reprocessed by dust, and spans the far-infrared to the ultraviolet. The corresponding publication is
 
 Finke, Razzaque, & Dermer, 2010, ApJ, 712, 238 .
 
